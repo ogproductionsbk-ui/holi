@@ -32,5 +32,36 @@
 
   "requiredName": "Name is required.",
   "requiredMarital": "Please select your marital status.",
-  "passwordMin": "Password must be at least 6 characters."
+  "passwordMin": "Password must be at least 6 characters.",
+
+  "appName": "My Store",
+  "myOrders": "My Orders",
+  "newOrder": "New Order",
+  "totalOrders": "Total Orders",
+  "delivered": "Delivered",
+  "pending": "Pending",
+  "recentOrders": "Recent Orders",
+  "orderNumber": "Order #",
+  "product": "Product",
+  "date": "Date",
+  "total": "Total",
+  "status": "Status",
+  "actions": "Actions",
+  "view": "View",
+  "track": "Track",
+  "loadingOrders": "Loading your orders...",
+  
+  "product1": "Gaming Laptop",
+  "product2": "Wireless Mouse",
+  "product3": "Mechanical Keyboard",
+  "statusPending": "Pending",
+  "statusDelivered": "Delivered",
+  "statusShipping": "Shipping",
+  
+  "createOrder": "Create New Order",
+  "createOrderDesc": "Add products to your cart and place a new order",
+  "startShopping": "Start Shopping",
+  "support": "Customer Support",
+  "supportDesc": "Need help? Contact our support team",
+  "contactSupport": "Contact Support"
 }

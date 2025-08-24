@@ -32,5 +32,36 @@
 
   "requiredName": "Le nom est obligatoire.",
   "requiredMarital": "Veuillez sélectionner votre état civil.",
-  "passwordMin": "Le mot de passe doit contenir au moins 6 caractères."
+  "passwordMin": "Le mot de passe doit contenir au moins 6 caractères.",
+
+  "appName": "Mon Magasin",
+  "myOrders": "Mes Commandes",
+  "newOrder": "Nouvelle Commande",
+  "totalOrders": "Total Commandes",
+  "delivered": "Livrées",
+  "pending": "En attente",
+  "recentOrders": "Commandes Récentes",
+  "orderNumber": "N° Commande",
+  "product": "Produit",
+  "date": "Date",
+  "total": "Total",
+  "status": "Statut",
+  "actions": "Actions",
+  "view": "Voir",
+  "track": "Suivre",
+  "loadingOrders": "Chargement de vos commandes...",
+  
+  "product1": "Ordinateur Gaming",
+  "product2": "Souris Sans Fil",
+  "product3": "Clavier Mécanique",
+  "statusPending": "En attente",
+  "statusDelivered": "Livré",
+  "statusShipping": "En transit",
+  
+  "createOrder": "Créer Nouvelle Commande",
+  "createOrderDesc": "Ajoutez des produits à votre panier et passez une nouvelle commande",
+  "startShopping": "Commencer Shopping",
+  "support": "Support Client",
+  "supportDesc": "Besoin d'aide ? Contactez notre équipe de support",
+  "contactSupport": "Contacter Support"
 }

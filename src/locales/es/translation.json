@@ -32,5 +32,36 @@
 
   "requiredName": "El nombre es obligatorio.",
   "requiredMarital": "Selecciona tu estado civil.",
-  "passwordMin": "La contraseña debe tener al menos 6 caracteres."
+  "passwordMin": "La contraseña debe tener al menos 6 caracteres.",
+
+  "appName": "Mi Tienda",
+  "myOrders": "Mis Pedidos",
+  "newOrder": "Nuevo Pedido",
+  "totalOrders": "Total Pedidos",
+  "delivered": "Entregados",
+  "pending": "Pendientes",
+  "recentOrders": "Pedidos Recientes",
+  "orderNumber": "N° Pedido",
+  "product": "Producto",
+  "date": "Fecha",
+  "total": "Total",
+  "status": "Estado",
+  "actions": "Acciones",
+  "view": "Ver",
+  "track": "Rastrear",
+  "loadingOrders": "Cargando tus pedidos...",
+  
+  "product1": "Laptop Gaming",
+  "product2": "Mouse Inalámbrico", 
+  "product3": "Teclado Mecánico",
+  "statusPending": "Pendiente",
+  "statusDelivered": "Entregado",
+  "statusShipping": "En camino",
+  
+  "createOrder": "Crear Nuevo Pedido",
+  "createOrderDesc": "Agrega productos a tu carrito y realiza un nuevo pedido",
+  "startShopping": "Comenzar Compra",
+  "support": "Soporte al Cliente",
+  "supportDesc": "¿Necesitas ayuda? Contacta a nuestro equipo de soporte",
+  "contactSupport": "Contactar Soporte"
 }
